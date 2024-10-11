@@ -1,0 +1,27 @@
+Agenda Eletronica - Exemplo de arquivo de saida.
+Pode colocar qualquer texto no cabecalho.
+O cabecalho deve ter exatamente 5 linhas.
+Neste caso, a quinta linha estah em branco  :-)
+
+--------------------------------------------------
+RESPOSTAS DAS CONSULTAS
+--------------------------------------------------
+60       Fazer lab de ces-11                     
+40       Estudar matematica                      
+AVISO    Nao ha tarefas na agenda  :-)
+75       Responder e-mails                       
+ERRO     Agenda cheia. Impossivel inserir.
+99       Telefonar para o ente querido           
+80       Ler noticias                            
+85       Treino correr 10 km                     
+51       Ir ao banco pagar conta                 
+12       Escovar os dentes                       
+98       Comprar guarda-chuva                    
+ 8       Pentear o cabelo                        
+ 5       Limpar apartamento                      
+AVISO    Nao ha tarefas na agenda  :-)
+
+--------------------------------------------------
+FICA PARA O DIA SEGUINTE
+--------------------------------------------------
+Agenda vazia! Nao restam tarefas para o dia seguinte.
